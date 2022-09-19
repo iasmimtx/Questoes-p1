@@ -1,3 +1,5 @@
-# Algumas Questões da Disciplina de Programação 1 - UFCG
+## Questões da disciplina de programação 1 
+
+Algumas questões feitas ao longo do período 2021.1
 
 

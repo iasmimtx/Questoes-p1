@@ -1,5 +1,4 @@
 # Iasmim Maria Freire da Silva Torres
-# Matrícula: 121110942
 # UFCG - Programação 1 2021.1e
 # Somando os Ultimos Números
 

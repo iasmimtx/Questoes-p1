@@ -1,11 +1,3 @@
-#def matriz_menor(m1, m2):
-'''m1 = [[1,2,3],
-    [13,14,15],
-    [7,8,9]]
-
-m2= [[10,11,12],
-         [4,5,6],
-         [7,8,9]]'''
 def matriz_menor(m1,m2):
     matriz = []
     for i in range(len(m1)):
